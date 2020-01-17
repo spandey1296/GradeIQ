@@ -226,6 +226,31 @@ print('****************************************************************')
 
 #Question10
 print('QUIZ:10')
+print(""" The protocol data unit(PDU) for the application layer in the Internet stack is
+1. Segment
+2. Datagram
+3. Message
+4. Frame""")
+
+answer5 = "3"
+response5 = input("Your answer is:")
+
+if (response5 != answer5):
+    print("Sorry, that is incorrect!")
+else:
+    print("Well done! " + response5 + " is correct!")
+    score = score + 1
+
+print("Your total score is " + str(score) + " out of 11")
+print("Thank you for playing {}, goodbye!".format(name))
+
+
+print('****************************************************************')
+
+
+
+#Question11
+print('QUIZ:11')
 print("""Which of the following transport layer protocolss is used to support electronic mail?
 1. SMTP
 2. IP
@@ -241,7 +266,7 @@ else:
     print("Well done! " + response5 + " is correct!")
     score = score + 1
 
-print("Your total score is " + str(score) + " out of 10")
+print("Your total score is " + str(score) + " out of 11")
 print("Thank you for playing {}, goodbye!".format(name))
 
 print('************************************************************************')
