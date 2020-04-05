@@ -1,3 +1,5 @@
+                                #DESIGN AND DEVELOPED BY SHIVANT KUMAR PANDEY
+                                           #CHITKARA UNIVERSITY HP
 
 
 #Convert the 0 into a number so we can add scores
@@ -8,7 +10,7 @@ print('****************************************QUIZ ZONE OF CODER2HACKER *******
 name = input("What is your name?")
 name = name.title()
 print("""Hello {}, welcome to Quiz night! 
-You will get  presented questions in front of your windows.
+You will get presented questions on your windows.
 Enter the appropriate number to answer the question
 Good luck!""".format(name))
 
@@ -276,6 +278,4 @@ print('THANKS FOR SHOWING INTEREST IN PLAYING THIS QUIZ:');
 
 
 
-# DESIGN AND DEVELOPED BY SHIVANT KUAMR PANDEY
-#CHITKARA UNIVERSITY HP
 
