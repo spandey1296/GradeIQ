@@ -6,6 +6,7 @@
 score = 0
 score = int(score)
 print('****************************************QUIZ ZONE OF CODER2HACKER *****************************')
+print('*****************Date and Time******************************************************************')
 #Please enter your Name to Proceed:
 name = input("What is your name?")
 name = name.title()
